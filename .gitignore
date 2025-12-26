@@ -1,0 +1,13 @@
+    # Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Obsidian - Basura
+.trash/
+
+# Obsidian - Configuración de espacio de trabajo (evita conflictos de pestañas abiertas)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# (Opcional) Si no quieres sincronizar tus plugins/temas y prefieres config manual:
+# .obsidian/
