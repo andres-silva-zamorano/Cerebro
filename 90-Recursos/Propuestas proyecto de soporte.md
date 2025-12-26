@@ -2,7 +2,7 @@
 
 ## 1. Contexto y Justificación
 
-Actualmente, **Bichón Global** atraviesa una etapa de expansión y alta carga operativa. El equipo de ingeniería interno está compuesto por solo dos personas para atender a una plantilla de 30 empleados. Esta proporción (1:15) ha generado un cuello de botella crítico:
+Actualmente, **Vision Global** atraviesa una etapa de expansión y alta carga operativa. El equipo de ingeniería interno está compuesto por solo dos personas para atender a una plantilla de 30 empleados. Esta proporción (1:15) ha generado un cuello de botella crítico:
 
 - **Sobrecarga de Ingeniería:** El equipo técnico está dedicado a proyectos estratégicos de crecimiento, lo que ha provocado un colapso por la acumulación de tareas de soporte diario.
   
@@ -37,7 +37,7 @@ Para garantizar la mejor elección, se inició un proceso de licitación en el q
 
 ## 4. Estado Actual y Decisión
 
-Tras el análisis de las cuatro ofertas, se ha seleccionado la propuesta que mejor se alinea con las necesidades de Bichón Global.
+Tras el análisis de las cuatro ofertas, se ha seleccionado la propuesta que mejor se alinea con las necesidades de Vision Global.
 
 - **Estatus:** La propuesta ganadora ya ha sido pre-seleccionada e integrada en el flujo de revisión final.
   
