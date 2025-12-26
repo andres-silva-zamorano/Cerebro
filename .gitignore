@@ -1,13 +1,13 @@
-    # Archivos de sistema
+# Obsidian settings (solo sincronizamos lo esencial, nada de workspace local)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/obsidian-git/data.json
+
+# Archivos de sistema
 .DS_Store
 Thumbs.db
 
-# Obsidian - Basura
-.trash/
-
-# Obsidian - Configuración de espacio de trabajo (evita conflictos de pestañas abiertas)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-
-# (Opcional) Si no quieres sincronizar tus plugins/temas y prefieres config manual:
-# .obsidian/
+# Archivos backup temporales
+*.bkp
+*.backup
