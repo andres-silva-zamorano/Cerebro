@@ -48,8 +48,11 @@ Tras el análisis de las cuatro ofertas, se ha seleccionado la propuesta que mej
 ### Propuestas iniciales
 
 ![[Alicom - Propuesta 1.pdf]]
+
 ![[DLSoluciones - Propuesta 1.pdf]]
+
 ![[Insumotech - Propuesta 1.pdf]]
+
 ![[Astinet - Propuesta 1.pdf]]
 
 ### Selección
