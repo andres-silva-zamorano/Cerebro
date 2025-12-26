@@ -47,7 +47,7 @@ Tras el análisis de las cuatro ofertas, se ha seleccionado la propuesta que mej
 
 ### Propuestas iniciales
 
- [Alicom - Propuesta 1.pdf](archivos/Alicom - Propuesta 1.pdf) 
+ [Alicom - Propuesta 1.pdf](archivos/Alicom-Propuesta-1.pdf) 
 
  [Astinet - Propuesta 1.pdf](archivos/Astinet - Propuesta 1.pdf) 
 
