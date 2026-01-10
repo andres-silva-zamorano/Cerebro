@@ -1,0 +1,3 @@
+```dataviewjs
+const paginas = dv.pages("#cita"); const filas = []; for (const pagina of paginas) { const contenido = await dv.io.load(pagina.file.path); const lineas = contenido.split('\n').filter(linea => linea.includes('#cita')); for (const linea of lineas) { const textoLimpio = linea.replace('#cita', '').trim(); filas.push([textoLimpio, pagina.file.link]); } } dv.table(["Frase Inolvidable", "Origen"], filas);
+```
